@@ -24,4 +24,5 @@ SNAPSHOT:
 You can find the source code for this project on [GitHub] 
 (https://github.com/ljnorton12/Horiseon-SEO-Marketing.git)https://github.com/ljnorton12/Horiseon-SEO-Marketing.git
 
-You can find a sirect link to my page here: ljnorton12.github.io/Horiseon-SEO-Marketing/
+You can find a direct link to my page here: 
+(https://ljnorton12.github.io/Horiseon-SEO-Marketing/)
