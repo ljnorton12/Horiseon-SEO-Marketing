@@ -18,4 +18,4 @@ THEN I find a concise, descriptive title
 
 SNAPSHOT: 
 
-assets/images/01-html-css-git-homework-demo.png
+![01-html-css-git-homework-demo](https://github.com/ljnorton12/Horiseon-SEO-Marketing/assets/122134252/20409320-a617-48bd-ab34-ed233b59308a)
