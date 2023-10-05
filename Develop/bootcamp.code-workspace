@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../git-init-sample"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootcamp"
+	}
+}
